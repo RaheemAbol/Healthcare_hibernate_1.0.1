@@ -1,7 +1,7 @@
 
 ---
 
-#### Ticket Breakdown: Healthcare Management System - Hibernate Implementation
+#### Ticket Breakdown: Healthcare Management System - Hibernate Implementation(Hibernate relationship practice)
 
 ---
 
